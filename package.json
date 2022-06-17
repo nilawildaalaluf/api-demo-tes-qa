@@ -11,11 +11,6 @@
     "node": "^17.7.2"
   },
   "devDependencies": {},
-  "scripts": {
-    "start": "./node_modules/.bin/netlify-lambda serve src",
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "./node_modules/.bin/netlify-lambda build src"
-  },
   "author": "Nila Wee",
   "license": "ISC"
 }
