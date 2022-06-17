@@ -11,15 +11,3 @@ app.get("/", (req, res) => {
 app.listen(PORT, function () {
   console.log(`Demo project at: ${PORT}!`);
 });
-
-// app.get("/", (req, res) => {
-// res.send("This is my demo project");
-// });
-
-// app.use("/books", books);
-
-// module.exports.handler = serverless(app);
-
-// app.listen(PORT, function () {
-//   console.log(`Demo project at: ${PORT}!`);
-// });
