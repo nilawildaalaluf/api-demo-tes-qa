@@ -11,6 +11,9 @@
     "node": "^17.7.2"
   },
   "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
   "author": "Nila Wee",
   "license": "ISC"
 }
